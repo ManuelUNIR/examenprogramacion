@@ -1,0 +1,500 @@
+   47  cd Desktop
+   48  casa
+   49  cd casa
+   50  ls
+   51  ls -l
+   52  chmod +x
+   53  touch script.sh
+   54  nano script.sh
+   55  read -p "Introduce tu edad:" EDAD
+   56  18
+   57  ssh-keygen -t rsa -b 4096 -C "malfa17@hotmail.com"
+   58  eval "$(ssh-agent -s)"
+   59  ssh-add ~/.ssh/id_rsa
+   60  cat ~/.ssh/id_rsa.pub
+   61  git clone
+   62  mkdir prueba-gh-pages
+   63  ls
+   64  cd Desktop
+   65  cd pruebasgithub
+   66  ls
+   67  echo "# Prueba GhPages" >> README.md 
+   68  ls
+   69  git init
+   70  git init
+   71  git init
+   72  git add README.md
+   73  git commit -m "first commit"
+   74  git remote add origin git@github.com:ManuelUNIR/ManuelUNIR.github.io.git
+   75  git push -u origin master
+   76  echo '<!DOCTYPE html><html><head><meta charset="utf-8"><title>Hello World!</title></head><body> <h1>Hola Mundo!</h1></body><html>' > index.html
+   77  git add index.html
+   78  git add -m "Add index.html"
+   79  git commit -m "Add index.html"
+   80  git push
+   81  cho '<!DOCTYPE html><html lang="es"><head> <meta charset="utf-8"> <title>Este es mi portfolio en GitHub Pages!!!</title> <style media="screen"> body{font-family: sans-serif;}h1{color: rgb(192, 0, 0);}.wrapper{margin: 0 auto; max-width: 768px;}</style></head><body> <div class="wrapper"> <h1>Bienvenidxs a mi Portfolio</h1> <p>Por primera vez estoy trabajando con Git como sistema de control de versiones</p><p>Además, he conseguido poner en marcha mi portfolio utilizando GitHub Pages</p></div></body></html>' > index.html
+   82  echo '<!DOCTYPE html><html lang="es"><head> <meta charset="utf-8"> <title>Este es mi portfolio en GitHub Pages!!!</title> <style media="screen"> body{font-family: sans-serif;}h1{color: rgb(192, 0, 0);}.wrapper{margin: 0 auto; max-width: 768px;}</style></head><body> <div class="wrapper"> <h1>Bienvenidxs a mi Portfolio</h1> <p>Por primera vez estoy trabajando con Git como sistema de control de versiones</p><p>Además, he conseguido poner en marcha mi portfolio utilizando GitHub Pages</p></div></body></html>' > index.html 
+   83  echo '<!DOCTYPE html><html lang="es"><head> <meta charset="utf-8"> <title>Este es mi portfolio en GitHub Pages!!!</title> <style media="screen"> body{font-family: sans-serif;}h1{color: rgb(192, 0, 0);}.wrapper{margin: 0 auto; max-width: 768px;}</style></head><body> <div class="wrapper"> <h1>Bienvenidxs a mi Portfolio</h1> <p>Por primera vez estoy trabajando con Git como sistema de control de versiones</p><p>Además, he conseguido poner en marcha mi portfolio utilizando GitHub Pages</p></div></body></html>' > index.html 
+   84  git diff
+   85  git push
+   86  git push
+   87  git push index.html
+   88  git diff
+   89  git config --global push.default matching
+   90  git push
+   91  git push
+   92  git add.
+   93  git add index.html
+   94  git push
+   95  git add index.html
+   96  git commit -m "Add index.html"
+   97  git push
+   98  python
+   99  peso.py
+  100  python peso.py
+  101  echo peso.py
+  102  echo >>peso.py
+  103  weight = float(input("Cuánto mides? (m)\n"))
+  104  weight=float(input("Cuánto mides? (m)\n"))
+  105  if weight > 2:; print("Wow! eres realmente alto/a")
+  106  python
+  107  peso.py
+  108  python peso.py
+  109  python
+  110  python
+  111  ls
+  112  peso.py
+  113  Python+peso.py
+  114  Ptyhon
+  115  Python
+  116  input>python peso.py
+  117  input
+  118  input > python.py
+  119  exit() python
+  120  Python
+  121  Python
+  122  echo < peso.py
+  123  echo > peso.py
+  124  Python
+  125  Python peso.py
+  126  python peso.py
+  127  python peso.py
+  128  python peso.py
+  129  python peso.py
+  130  python peso.py
+  131  python peso.py
+  132  python peso.py
+  133  python peso.py
+  134  exit() echo < suma.py
+  135  echo > suma.py
+  136  python suma.py
+  137  python suma.py
+  138  python suma.py
+  139  python suma.py
+  140  exit() ls
+  141  cd
+  142  pruebasgithub
+  143  ls
+  144  Desktop
+  145  Desktop cd
+  146  Desktop ls
+  147  ls
+  148  cd Desktop
+  149  cd preubasgithub
+  150  cd pruebasgithub
+  151  ls
+  152  git init
+  153  git add peso.py
+  154  git commit -m "Add peso.py"
+  155  git push
+  156  git add suma.py
+  157  git commit -m "Add suma.py"
+  158  git push
+  159  git add caso1
+  160  git commit -m "Add caso1"
+  161  git push
+  162  git rm -r caso1
+  163  git commit -m "Prueba de subir archivos"
+  164  git push
+  165  git rm -f caso1
+  166  git rm -r caso1
+  167  git rm -f caso1/.DS_Store
+  168  git commit -m "Eliminar"
+  169  git push
+  170  git rm -r caso1
+  171  git commit -m "Borrar todo caso1"
+  172  git push
+  173  git add README.md
+  174  git commit -m "Actualización del README"
+  175  git push
+  176  mkdir git
+  177  mv index.html git/index.hmtl
+  178  mkdir python
+  179  mv peso.py python/peso.py
+  180  mv suma.py python/suma.py
+  181  git add git
+  182  git commit -m "Trabajo taller de Git"
+  183  git push
+  184  git add python
+  185  git commit -m "Archivos clase Python"
+  186  git push
+  187  git rm -r git
+  188  git rm -f git/.DS_Store
+  189  git push
+  190  git rm -r git
+  191  git push
+  192  git rm -f git/.DS_Store
+  193  git commit -m"Borrar DS"
+  194  git push
+  195  git rm -r git
+  196  git add git
+  197  git commit -m "Archivos clase git"
+  198  git push
+  199  git add index.html img fonts styles
+  200  git commit -m "Mi portafolio"
+  201  git push
+  202  git rm -r peso.py
+  203  git rm -r peso py suma.py
+  204  git rm -r peso.py suma.py
+  205  git rm -r peso.py
+  206  git commit -m "Remover peso"
+  207  git push
+  208  git rm -r suma.py
+  209  git commit -m "Remover suma"
+  210  git push
+  211  library(tidyverse)
+  212  ls
+  213  cd Despktop
+  214  cd Desktop
+  215  ls
+  216  cd pruebasgithub
+  217  ls
+  218  echo manuel.txt
+  219  cat manuel.txt
+  220  cat> manuel.txt
+  221  ls
+  222  cd Desktop
+  223  ls
+  224  cd pruebasgithub
+  225  ls
+  226  touch nuevo.html
+  227  echo hola
+  228  "hola" > nuevo.html
+  229  hola > nuevo.html
+  230  "hola > nuevo
+  231  ls
+  232  cd Desktop
+  233  cd pruebasgithub
+  234  ls
+  235  echo hola mundo
+  236  "hola mundo" > nuevo
+  237  echo "hola mundo" > todo
+  238  git init
+  239  git add nuevo html
+  240  git add nuevo.html
+  241  git commit -m "prueba examen"
+  242  git push
+  243  git init
+  244  ls
+  245  cd Desktop
+  246  ls
+  247  pruebasgithub cd
+  248  ls
+  249  cd pruebasgithub
+  250  ls
+  251  git init
+  252  git add CVManuelAlfaro.doc
+  253  git commit -m "MiCV"
+  254  git push
+  255  ls
+  256  cd Desktop
+  257  ls
+  258  cd examenprueba
+  259  ls
+  260  git@github.com:ManuelUNIR/periodista.git
+  261  git clone git@github.com:ManuelUNIR/periodista.git
+  262  echo "# periodista" >> README.md
+  263  git init
+  264  git add README.md
+  265  git commit -m "first commit"
+  266  git remote add origin git@github.com:ManuelUNIR/periodista.git
+  267  git push -u origin master
+  268  git brach test
+  269  git branch test
+  270  git checkout test
+  271  touch newFile.txt
+  272  git add newFile.txt
+  273  git commit -m "Prueba rama"
+  274  git push
+  275  git checkout master
+  276  git merge test
+  277  ls
+  278  git add newFile.txt
+  279  git commit -m "Prueba"
+  280  git push
+  281  git branch -d test
+  282  git checkout dos
+  283  git branch dos
+  284  git checkout dos
+  285  touch newFile2.txt
+  286  git add newFile2.txt
+  287  git commit -m "Prueba2"
+  288  git push
+  289  git checkout master
+  290  git merge dos
+  291  git branch -d dos
+  292  git config
+  293   git config --global user.name
+  294  git config --global user.name "Manuel Alfaro"
+  295  git config --global user.email malfa17@hotmail.com
+  296   git commit --amend --reset-author
+  297  ls
+  298  cd Desktop
+  299  ls
+  300  cd examenprueba
+  301  ls
+  302  git init
+  303  git branch test
+  304  git checkout test
+  305  touch newFile.txt
+  306  git add newFile.txt
+  307  git commit -m "Prueba"
+  308  git checkout master
+  309  git merge test
+  310  git push
+  311  git rm newFile2.txt
+  312  git commit -m "Eliminar"
+  313  git push
+  314  git branch vamos
+  315  git checkout vamos
+  316  touch bonito.txt
+  317  git add bonito.txt
+  318  git commit -m "Nuevamente"
+  319  git checkout master
+  320  git merge vamos
+  321  git branch -d vamos
+  322  git push
+  323  ls
+  324  cd Desktop
+  325  ls
+  326  cd otraprueba
+  327  git clone git@github.com:ManuelUNIR/paraexamen.git
+  328  git config --lis
+  329  ls
+  330  cd Desktop
+  331  ls
+  332  otraprueba
+  333  cd prueba
+  334  ls
+  335  cd Desktop
+  336  ls
+  337  cd otraprueba
+  338  ls
+  339  git init
+  340  git config user.name
+  341  git config user.email
+  342  echo "Segunda prueba" > README.md
+  343  git add README.md
+  344  git commit -m "first commit"
+  345  git push
+  346  git remote add origin git@github.com:ManuelUNIR/paraexamen.git
+  347  git push
+  348  git push -u origin master
+  349  git branch hola
+  350  git checkout hola
+  351  touch newFile.txt
+  352  ls
+  353  git checkout master
+  354  ls
+  355  git merge hola
+  356  git branch -d hola
+  357  git branch todos
+  358  git checkout todos
+  359  touch toditicos.txt
+  360  git branch -d todos
+  361  git checkout master
+  362  git branch -d todos
+  363  git branch ultima
+  364  git checkout ultima
+  365  touch newFile.text
+  366  git add newFile.txt
+  367  git commit -m "ultima"
+  368  git push
+  369  ls
+  370  pwd
+  371  ls
+  372  ls-l
+  373  ls -l
+  374  ls
+  375  ls --help
+  376  ls
+  377  ls -help
+  378   ls -man
+  379  ls
+  380  man cp
+  381  cd Desktop
+  382  ls
+  383  cd ..
+  384  ls
+  385  d
+  386  ls
+  387  ls Documents
+  388  ls
+  389  history
+  390  ls
+  391  cd Desktop
+  392  ls
+  393  cd paraexamen
+  394  ls
+  395  pwd
+  396  git clone git@github.com:ManuelUNIR/practicaexamen2.git
+  397  git push origin master
+  398  git push origin master
+  399  ls
+  400  cd practicaexamen2
+  401  ls
+  402  pwd
+  403  touch readme.md
+  404  git add readme.md
+  405  git commit -m "Primer commit"
+  406  git push
+  407  git push origin master
+  408  echo "Hola Mundo" > prueba
+  409  git add prueba
+  410  git commit -m "Prueba de texto"
+  411  git push
+  412  git status
+  413  echo "Aprendiendo Git" > readme.md
+  414  git add readme.md
+  415  git commit -m "Cambio a Readme"
+  416  git push
+  417  git rm prueba
+  418  git commit -m "eliminar archivo"
+  419  git push
+  420  git log
+  421  git branch test
+  422  git checkout test
+  423  touch newFile.txt
+  424  git add newFile.txt
+  425  git commit -m "Archivo de test"
+  426  checkout master
+  427  git checkout master
+  428  git merge test
+  429  ls
+  430  git branch -d test
+  431  git push
+  432  git branch test2
+  433  git checkout test2
+  434  touch archivo.html
+  435  git add archivo.hmtl
+  436  git add archivo.html
+  437  git push
+  438  git checkout master
+  439  git merge test2
+  440  git add
+  441  git add archivo.html
+  442  git commit -m "Otro más"
+  443  git push
+  444  git branch -d test2
+  445  git branch
+  446  git branch experimento
+  447  git checkout experimento
+  448  touch nose.txt
+  449  git add nose.txt
+  450  git commit -m "mensaje"
+  451  git checkout master
+  452  git merge experimento
+  453  python
+  454  python
+  455  python
+  456  ls
+  457  cd Desktop
+  458  ls
+  459  cd python
+  460  ls
+  461  ls
+  462  python
+  463  man
+  464  ls
+  465  man ls
+  466  ls -help
+  467  ls
+  468  ls -l
+  469  ls
+  470  ls Documents
+  471  ls
+  472  ls Documentos/*
+  473  ls Documents*
+  474  ls
+  475  cd Despktop
+  476  cd Desktop
+  477  ls
+  478  cd pruebafinal
+  479  ls
+  480  git clone git@github.com:ManuelUNIR/ultimaprueba.git
+  481  ls
+  482  cd ultimaprueba
+  483  ls
+  484  touch readme.md
+  485  git add
+  486  git add readme.md
+  487  git commit -m "Primer archivo"
+  488  git push origin master
+  489  git branch test
+  490  git checkout test
+  491  touch newFile.txt
+  492  git add newFile.txt
+  493  git commit -m "Nuevo archivo"
+  494  git chekout master
+  495  git checkout master
+  496  git merge test
+  497  git push
+  498  git -d test
+  499  git branch -d test
+  500  ls
+  501  cd Desktop
+  502  ls
+  503  cd examenfinal
+  504  ls
+  505  git clone git@github.com:ManuelUNIR/examenprogramacion.git
+  506  ls
+  507  cd examenprogramacion
+  508  touch readme.md
+  509  git add readme.md
+  510  git commit -m "Archivo readme"
+  511  git push origin master
+  512  touch examen.txt
+  513  git add examen.txt
+  514  git commit -m "Explicación de la materia vista en el curso el periodista como programador"
+  515  git push
+  516  git add otros
+  517  git commit -m "Carpeta con logo"
+  518  git push
+  519  touch archivo.py
+  520  git add archivo.py
+  521  git commit -m "Tipo de archivo de Python"
+  522  git push
+  523  git add main.js
+  524  touch main.js
+  525  git add main.js
+  526  git commit -m "Tipo de archivo de javascript"
+  527  git push
+  528  git branch test
+  529  git checkout test
+  530  touch newFile.txt
+  531  git add NewFile.txt
+  532  git commit -m "Archivo rama secundaria"
+  533  git checkout master
+  534  git merge test
+  535  git checkout test
+  536  git add NewFile.txt
+  537  git add newFile.txt
+  538  git commit -m "Archivo de rama secundaria"
+  539  git checkout master
+  540  git push
+  541  git -d test
+  542  git add docs
+  543  git commit -m "carpeta docs"
+  544  git push
+  545  git log
+  546  history > historico.txt
